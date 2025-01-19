@@ -1,0 +1,30 @@
+Quartus II Archive log --	C:/Users/anshu/Desktop/COE328/Lab6/ALU1/ALU1_tmp_archive.qarlog
+
+Archive:	C:/Users/anshu/Desktop/COE328/Lab6/ALU1/ALU1_tmp_archive.qar
+Date:		Sun Dec 01 20:41:41 2024
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/ALU1.qpf
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/ALU1.qsf
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/ALU1.vhd
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/CPU.bdf
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/FSM.vhd
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/Problem1_Waveform.vwf
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/db/ALU1.sim.vwf
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/decode.vhd
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/incremental_db/compiled_partitions/ALU1.db_info
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/latch1.vhd
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/latch2.vhd
+C:/Users/anshu/Desktop/COE328/Lab6/ALU1/sseg.vhd
+c:/altera/13.0sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Dec 01 20:41:42 2024
+Source archive file:	C:/Users/anshu/Desktop/COE328/Lab6/ALU1/ALU1_tmp_archive.qar
+Archive was extracted into	C:/Users/anshu/Desktop/COE328/Lab6/ALU2/
+		 - successfully.
